@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>All Madmac</title>
+    <link href="https://madmacwang.github.io/All_Madmac/feed.xml" rel="self" />
+    <link href="https://madmacwang.github.io/All_Madmac" />
+    <updated>2020-02-17T10:29:47+07:00</updated>
+    <author>
+        <name>A.M.Fred</name>
+    </author>
+    <id>https://madmacwang.github.io/All_Madmac</id>
+
+    <entry>
+        <title>一把辛酸淚、滿紙荒唐言</title>
+        <author>
+            <name>A.M.Fred</name>
+        </author>
+        <link href="https://madmacwang.github.io/All_Madmac/yi-ba-xin-suan-lei-man-zhi-huang-tang-yan.html"/>
+        <id>https://madmacwang.github.io/All_Madmac/yi-ba-xin-suan-lei-man-zhi-huang-tang-yan.html</id>
+
+        <updated>2020-02-17T10:21:25+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://madmacwang.github.io/All_Madmac/media/posts/1/585.jpg" alt="" />
+                <img class="post__image post__image--full" src="https://image.freepik.com/free-photo/horse-mask-man-studio_158595-585.jpg" alt="" width="626" height="417">
+            ]]>
+        </content>
+    </entry>
+</feed>
